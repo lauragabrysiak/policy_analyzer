@@ -3,7 +3,7 @@
 '''
 Created on 19.12.2011
 
-@author: Marcus Voss
+@author:
 '''
 from __future__ import division
 import matplotlib
