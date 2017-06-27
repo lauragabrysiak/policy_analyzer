@@ -1,0 +1,168 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{safeharbor}
+Safe harbor information: Google inc.,
+  \url{http://safeharbor.export.gov/companyinfo.aspx?id=13346}
+
+\bibitem{safeharbor2}
+U.s. eu safe harbor overview,
+  \url{http://export.gov/safeharbor/eu/eg_main_018476.asp}
+
+\bibitem{decindependence}
+The declaration of independence (1776),
+  \url{http://www.ushistory.org/declaration/document/}
+
+\bibitem{Agrawal2007}
+Agrawal, R., Grosky, W.I., Fotouhi, F.: Ranking privacy policy. In: Proc. IEEE
+  23rd Int Data Engineering Workshop Conf. pp. 192--197 (2007)
+
+\bibitem{Anton2004}
+Anton, A.I., Earp, J.B., He, Q., Stufflebeam, W., Bolchini, D., Jensen, C.:
+  Financial privacy policies and the need for standardization. IEEE Security \&
+  Privacy  2(2),  36--45
+
+\bibitem{Chall1995}
+Chall, J., Dale, E.: Readability Revisited: The New Dale-Chall Readability
+  Formula. Brookline Books, Brookline, Massachusetts (1995)
+
+\bibitem{Chernoff1973}
+Chernoff, H.: The use of faces to represent points in k-dimensional space
+  graphically. Journal of the American Statistical Association  68(342),
+  361--368 (June 1973)
+
+\bibitem{Collins-Thompson2004}
+Collins-Thompson, K., Callan, J.P.: A language modeling approach to predicting
+  reading difficulty. In: HLT-NAACL. pp. 193--200 (2004)
+
+\bibitem{Dickens1988}
+Dickens, C.: A Christmas Tree. Slawson Communications, Inc. (1988),
+  \url{http://www.classicreader.com/book/876/1/}
+
+\bibitem{Dubay2004}
+Dubay, W.H.: The principles of readability. CA Impact Information (949),  1--72
+  (2004),
+  \url{http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:The+Principles+of+Readability#2}
+
+\bibitem{Dubay2007}
+Dubay, W.H.: Smart Language: Readers, Readability, and the Grading of Text.
+  Booksurge Llc (2007), \url{http://books.google.de/books?id=3in5PAAACAAJ}
+
+\bibitem{Feng2010}
+Feng, L., Jansche, M., Huenerfauth, M., Elhadad, N.: A comparison of features
+  for automatic readability assessment. In: Proceedings of the 23rd
+  International Conference on Computational Linguistics: Posters. pp. 276--284.
+  COLING '10, Association for Computational Linguistics, Stroudsburg, PA, USA
+  (2010), \url{http://dl.acm.org/citation.cfm?id=1944566.1944598}
+
+\bibitem{Fry2006}
+Fry, E.: Readability (February 2006),
+  \url{http://www.impact-information.com/impactinfo/fryreadability.pdf}
+
+\bibitem{Heilman2007}
+Heilman, M.J., Collins, K., Callan, J.: Combining lexical and grammatical
+  features to improve readability measures for first and second language texts.
+  In: Proceedings of the Human Language Technology Conference (2007)
+
+\bibitem{hochhauser2002}
+Hochhauser, M.: The effects of hipaa on reserch consent forms. Patient Care
+  Management  (2002)
+
+\bibitem{Huning2010}
+Huning, T.R.: Readability of privacy policies of german websites (2010),
+  unpublished.
+
+\bibitem{webmining2007}
+Jakobsen, T., Skardal, T.: Readability index (2007),
+  \url{http://www.mortengoodwin.net/publicationfiles/webmining_2007_reportgroup6.pdf}
+
+\bibitem{Jensen2004}
+Jensen, C., Potts, C.: Privacy policies as decision-making tools: an evaluation
+  of online privacy notices. In: Proceedings of the SIGCHI conference on Human
+  factors in computing systems. pp. 471--478. CHI '04, ACM, New York, NY, USA
+  (2004), \url{http://doi.acm.org/10.1145/985692.985752}
+
+\bibitem{Kanungo2009}
+Kanungo, T., Orr, D.: Predicting the readability of short web summaries. In:
+  WSDM '09: Proceedings of the Second ACM International Conference on Web
+  Search and Data Mining. pp. 202--211. ACM, New York, NY, USA (2009),
+  \url{http://dx.doi.org/10.1145/1498759.1498827}
+
+\bibitem{Karmakar2010a}
+Karmakar, S., Zhu, Y.: Visualizing multiple text readability indexes. In: Proc.
+  Int Education and Management Technology (ICEMT) Conf. pp. 133--137 (2010)
+
+\bibitem{Karmakar2010}
+Karmakar, S., Zhu, Y.: Visualizing text readability. In: Proc. 6th Int Advanced
+  Information Management and Service (IMS) Conf. pp. 291--296 (2010)
+
+\bibitem{Kate2010}
+Kate, R., Luo, X., Patwardhan, S., Franz, M., Florian, R., Mooney, R., Roukos,
+  S., Welty, C.: Learning to predict readability using diverse linguistic
+  features. In: Proceedings of the 23rd International Conference on
+  Computational Linguistics. pp. 546--554. Beijing, China (August 2010),
+  \url{http://www.patwardhans.net/papers/KateEtAl10.pdf}
+
+\bibitem{Mcdonald2009}
+Mcdonald, A.M., Reeder, R.W., Kelley, P.G., Cranor, L.F.: A comparative study
+  of online privacy policies and formats. In: Proceedings of the 9th
+  International Symposium on Privacy Enhancing Technologies. pp. 37--55. PETS
+  '09, Springer-Verlag, Berlin, Heidelberg (2009),
+  \url{http://dx.doi.org/10.1007/978-3-642-03168-7_3}
+
+\bibitem{Petersen2006}
+Petersen, S.E., Ostendorf, M.: A machine learning approach to reading level
+  assessment. Tech. rep. (2006)
+
+\bibitem{Schwarm2005}
+Schwarm, S.E., Ostendorf, M.: Reading level assessment using support vector
+  machines and statistical language models. In: Proceedings of the Annual
+  Meeting of the Association for Computational Linguistics. pp. 523--530 (2005)
+
+\bibitem{Si2001}
+Si, L., Callan, J.: A statistical model for scientific readability. In:
+  Proceedings of the tenth international conference on Information and
+  knowledge management. pp. 574--576. CIKM '01, ACM, New York, NY, USA (2001),
+  \url{http://doi.acm.org/10.1145/502585.502695}
+
+\bibitem{Silverstein1964}
+Silverstein, S.: The Giving Tree. Harper \& Row (1964)
+
+\bibitem{Singleton2001}
+Singleton, S.M., Harper, J.: With a grain of salt: What consumer privacy
+  surveys don't tell us. (2001), \url{http://ssrn.com/abstract=299930}
+
+\bibitem{Sumeeth2010}
+Sumeeth, M., Singh, R.I., Miller, J.: Are online privacy policies readable?
+  IJISP pp. 93--116 (2010)
+
+\bibitem{Taylor1953}
+Taylor, W.L.: Cloze procedure: A new tool for measuring readability. Journalism
+  Quarterly  30(4),  415--433 (1953),
+  \url{http://doi.apa.org/?uid=1955-00850-001}
+
+\bibitem{billofrights}
+of~the United~States, C.: Bill of rights (1789),
+  \url{http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html}
+
+\bibitem{Vu2007}
+Vu, K.P., Chambers, V., Garcia, F., Creekmur, B., Sulaitis, J., Nelson, D.,
+  Pierce, R., Proctor, R.: How users read and comprehend privacy policies. In:
+  Smith, M., Salvendy, G. (eds.) Human Interface and the Management of
+  Information. Interacting in Information Environments, Lecture Notes in
+  Computer Science, vol. 4558, pp. 802--811. Springer Berlin / Heidelberg
+  (2007), \url{http://dx.doi.org/10.1007/978-3-540-73354-6_88}
+
+\bibitem{Google2012}
+Whitten, A.: Updating our privacy policies and terms of service (2012),
+  \url{http://googleblog.blogspot.com/2012/01/updating-our-privacy-policies-and-terms.html}
+
+\bibitem{Xing2008}
+Xing, F., Cheng, D., Pu, J.: A new approach to readability study based on
+  information computing. In: Proceedings of the 2008 International Conference
+  on Advanced Language Processing and Web Information Technology. pp. 156--161.
+  IEEE Computer Society, Washington, DC, USA (2008),
+  \url{http://dl.acm.org/citation.cfm?id=1441420.1441517}
+
+\end{thebibliography}

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/readability/!svn/ver/120/output
+END
+t.template
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/readability/!svn/ver/35/output/t.template
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/readability/!svn/ver/71/output/__init__.py
+END
+html_gen.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/readability/!svn/ver/33/output/html_gen.py
+END
+cheetah_output.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/readability/!svn/ver/117/output/cheetah_output.py
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/readability/!svn/ver/109/output/template.html
+END

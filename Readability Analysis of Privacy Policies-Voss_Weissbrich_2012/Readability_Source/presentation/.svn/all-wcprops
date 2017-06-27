@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/readability/!svn/ver/114/presentation
+END
+frychart.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/readability/!svn/ver/114/presentation/frychart.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/readability/!svn/ver/20/presentation/__init__.py
+END
+Fry_Graph.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/readability/!svn/ver/24/presentation/Fry_Graph.png
+END
+heatmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/readability/!svn/ver/101/presentation/heatmap.png
+END
+heatmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/readability/!svn/ver/114/presentation/heatmap.py
+END
+boxplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/readability/!svn/ver/42/presentation/boxplot.py
+END
+zscores.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/readability/!svn/ver/42/presentation/zscores.py
+END
+linechart.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/readability/!svn/ver/114/presentation/linechart.py
+END
+spiderchart.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/readability/!svn/ver/24/presentation/spiderchart.py
+END
+dalechallgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/readability/!svn/ver/72/presentation/dalechallgraph.py
+END

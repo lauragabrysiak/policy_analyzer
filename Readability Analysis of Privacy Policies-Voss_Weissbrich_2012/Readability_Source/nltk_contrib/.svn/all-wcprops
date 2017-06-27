@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/readability/!svn/ver/121/nltk_contrib
+END
+privacy_wordlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/readability/!svn/ver/121/nltk_contrib/privacy_wordlist.txt
+END
+syllables_en.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/readability/!svn/ver/11/nltk_contrib/syllables_en.py
+END
+crawler.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/readability/!svn/ver/11/nltk_contrib/crawler.py
+END
+textanalyzer.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/readability/!svn/ver/121/nltk_contrib/textanalyzer.py
+END
+dale_chall_wordlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/readability/!svn/ver/25/nltk_contrib/dale_chall_wordlist.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/readability/!svn/ver/11/nltk_contrib/__init__.py
+END
+urlextracter.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/readability/!svn/ver/11/nltk_contrib/urlextracter.py
+END
+readabilitytests.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/readability/!svn/ver/119/nltk_contrib/readabilitytests.py
+END
+syllables_no.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/readability/!svn/ver/11/nltk_contrib/syllables_no.py
+END
+languageclassifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/readability/!svn/ver/11/nltk_contrib/languageclassifier.py
+END

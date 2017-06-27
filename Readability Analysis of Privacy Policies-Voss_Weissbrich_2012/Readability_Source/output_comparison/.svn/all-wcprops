@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/readability/!svn/ver/122/output_comparison
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/readability/!svn/ver/86/output_comparison/__init__.py
+END
+cheetah_output_comparison.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/readability/!svn/ver/122/output_comparison/cheetah_output_comparison.py
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/readability/!svn/ver/109/output_comparison/template.html
+END
