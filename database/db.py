@@ -1,7 +1,7 @@
 # coding=utf-8
 '''
 Created on 04.12.2011
-@author: Eric
+@author:
 '''
 
 import sqlite3
